@@ -7,15 +7,13 @@
 
 - 👯 I’m looking to collaborate on **all kinds of exciting projects.**
 
-- 👨‍💻 All of my projects are available at [https://engineerdanny.me/#/projects](https://engineerdanny.me/#/projects)
+- 👨‍💻 Checkout my portfolio on [https://engineerdanny.me](https://engineerdanny.me)
 
 - 📝 I write articles on [https://engineerdanny.medium.com](https://engineerdanny.medium.com)
 
 - 💬 Ask me about **Flutter, Java, Nodejs, React and PHP Laravel**
 
 - 📫 You can reach me on **agyapongdaniel7777@gmail.com**
-
-- 📄 Know about my experiences [https://engineerdanny.me/#/experience](https://engineerdanny.me/#/experience)
 
 - ⚡ Fun fact **I love music and movies.**
 
