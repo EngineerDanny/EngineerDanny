@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/engineerdevdan" target="blank"><img src="https://img.shields.io/twitter/follow/engineerdevdan?logo=twitter&style=for-the-badge" alt="engineerdevdan" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs, TailwindCSS, Python ML/AI, SwiftUI**
+- 🌱 I’m currently learning **Python ML/AI, Nextjs, TailwindCSS, SwiftUI**
 
 - 👯 I’m looking to collaborate on **all kinds of exciting projects.**
 
