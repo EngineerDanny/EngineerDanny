@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 🙌, I'm EngineerDanny😎</h1>
-<h3 align="center">An enthusiastic FullStack Engineer from KNUST 📚</h3>
+<h3 align="center">An enthusiastic Engineer from KNUST 📚</h3>
 
 <p align="left"> <a href="https://twitter.com/engineerdevdan" target="blank"><img src="https://img.shields.io/twitter/follow/engineerdevdan?logo=twitter&style=for-the-badge" alt="engineerdevdan" /></a> </p>
 
