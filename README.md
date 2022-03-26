@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python ML/AI, Nextjs, TailwindCSS, SwiftUI**
 
-- 👯 I’m looking to collaborate on **all kinds of exciting projects.**
+- 👯 I’m available to collaborate on **all kinds of exciting projects.**
 
 - 👨‍💻 Checkout my portfolio on [https://engineerdanny.me](https://engineerdanny.me)
 
