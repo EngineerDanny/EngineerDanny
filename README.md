@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://engineerdanny.medium.com](https://engineerdanny.medium.com)
 
-- 💬 Ask me about **Flutter, Java, Nodejs, React and PHP Laravel**
+- 💬 Ask me about **Nodejs, Flutter, React/Next, Python, Java and PHP Laravel**
 
 - 📫 You can reach me on **agyapongdaniel7777@gmail.com**
 
