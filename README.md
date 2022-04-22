@@ -5,7 +5,7 @@
 
 - 👯 I’m available to collaborate on **all kinds of exciting projects.**
 
-- 👨‍💻 Checkout my portfolio on [https://engineerdanny.me](https://engineerdanny.me)
+- 👨‍💻 Checkout my portfolio on [https://engineerdanny.herokuapp.com](https://engineerdanny.herokuapp.com)
 
 - 📝 I write articles on [https://engineerdanny.medium.com](https://engineerdanny.medium.com)
 
