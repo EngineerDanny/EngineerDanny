@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning **Python ML/AI, Nextjs, TailwindCSS, SwiftUI**
 
 - 👯 I’m available to collaborate on **all kinds of exciting projects.**
-
-- 👨‍💻 Checkout my portfolio on [https://engineerdanny.herokuapp.com](https://engineerdanny.herokuapp.com)
-
+<!-- - 👨‍💻 Checkout my portfolio on [https://engineerdanny.herokuapp.com](https://engineerdanny.herokuapp.com) -->
 - 📝 I write articles on [https://engineerdanny.medium.com](https://engineerdanny.medium.com)
 
 - 💬 Ask me about **Nodejs, Flutter, React/Next, Python, Java and PHP Laravel**
