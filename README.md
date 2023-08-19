@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 🙌, I'm EngineerDanny😎</h1>
+<h1 align="center">Hola 🙌, I'm EngineerDanny😎</h1>
 <h3 align="center">An enthusiastic Software Engineer from KNUST 📚</h3>
 
 - 🌱 I’m currently learning **Python ML/AI, Nextjs, TailwindCSS, SwiftUI**
