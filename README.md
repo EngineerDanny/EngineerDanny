@@ -11,7 +11,7 @@
 
 - 📫 You can reach me on **agyapongdaniel7777@gmail.com**
 
-- ⚡ Fun fact **I love soccer and movies.**
+- ⚡ Fun fact **I love playing the FIFA game and movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
