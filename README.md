@@ -1,5 +1,5 @@
 <h1 align="center">Hola 🙌, I'm EngineerDanny😎</h1>
-<h3 align="center">An enthusiastic Software Engineer with focus on making the world better through technology 📚</h3>
+<h3 align="center">An enthusiastic software engineer with focus on making the world better through technology </h3>
 
 - 🌱 I’m currently learning **Python ML/AI, Nextjs, TailwindCSS, SwiftUI**
 
