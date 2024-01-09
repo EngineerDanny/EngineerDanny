@@ -5,7 +5,7 @@
 <!-- - 👨‍💻 Checkout my portfolio on [https://engineerdanny.herokuapp.com](https://engineerdanny.herokuapp.com) -->
 - 📝 I write articles on [https://engineerdanny.medium.com](https://engineerdanny.medium.com)
 
-- 💬 Ask me about **Nodejs, Flutter, React/Next, Python, Java and PHP Laravel**
+- 💬 Ask me about **Python, Nodejs, React/Next, Java, Flutter and PHP Laravel**
 
 - ⚡ Fun fact **I love playing the FIFA soccer game and watching movies.**
 
