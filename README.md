@@ -1,4 +1,4 @@
-<h1 align="center">Hola 🙌, I'm EngineerDanny😎</h1>
+<h1 align="center">Hola, I'm EngineerDanny😎</h1>
 <h3 align="center">An enthusiastic software engineer with focus on making the world better through technology </h3>
 
 - 👯 I’m available to collaborate on **all kinds of exciting projects.**
