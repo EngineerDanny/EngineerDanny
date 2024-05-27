@@ -2,12 +2,14 @@
 <h3 align="center">An enthusiastic software engineer with focus on making the world better through technology </h3>
 
 - 👯 I’m available to collaborate on **all kinds of exciting projects.**
-<!-- - 👨‍💻 Checkout my portfolio on [https://engineerdanny.herokuapp.com](https://engineerdanny.herokuapp.com) -->
+  
+- 👨‍💻 Checkout my portfolio on [https://engineerdanny.github.io/](https://engineerdanny.github.io/)
+
 - 📝 I write articles on [https://engineerdanny.medium.com](https://engineerdanny.medium.com)
 
 - 💬 Ask me about **Python, Nodejs, React/Next, Java, Flutter and PHP Laravel**
 
-- ⚡ Fun fact **I love playing the FIFA soccer game and watching movies.**
+- ⚡ Fun fact **I love playing the FIFA soccer game and listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
